@@ -1,0 +1,13 @@
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.exe
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.deps.json
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.runtimeconfig.json
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.runtimeconfig.dev.json
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.dll
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\bin\Debug\netcoreapp3.1\02_estrutura.pdb
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.csprojAssemblyReference.cache
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.AssemblyInfoInputs.cache
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.AssemblyInfo.cs
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.dll
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.pdb
+C:\Users\Romario\Documents\C# .NET (basic)\02_estrutura\obj\Debug\netcoreapp3.1\02_estrutura.genruntimeconfig.cache

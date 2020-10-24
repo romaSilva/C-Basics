@@ -1,0 +1,13 @@
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.exe
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.deps.json
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.runtimeconfig.json
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.runtimeconfig.dev.json
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.dll
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\bin\Debug\netcoreapp3.1\01_console_project.pdb
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.csprojAssemblyReference.cache
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.AssemblyInfoInputs.cache
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.AssemblyInfo.cs
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.csproj.CoreCompileInputs.cache
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.dll
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.pdb
+C:\Users\Romario\Documents\C# .NET (basic)\01_console_project\obj\Debug\netcoreapp3.1\01_console_project.genruntimeconfig.cache
